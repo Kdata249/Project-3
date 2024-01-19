@@ -1,14 +1,11 @@
 # Project-3
 # Heart Attack Risk Prediction Dataset
 
-
 ## Website: 
-[website](https://github.com/Kdata249/Project-3)
+[https://github.com/Kdata249/Project-3]
 
 ## Description
 ETL of synthetic data on heart attack risk factors
-
-
 
 ## Table of Contents
 
@@ -30,7 +27,7 @@ sqlalchemy
 
 ## Contributors
 Karel Klos, 
-Mor Demer, 
+Mor Dermer, 
 Aaron Walker, 
 Whitney Sylliac
 
