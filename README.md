@@ -34,10 +34,10 @@ Whitney Sylliac
 
 
 ## Data_Sources
-https://www.kaggle.com/
-https://docs.pola.rs/
-https://pandas.pydata.org/docs/index.html
-https://stackoverflow.com/
+https://www.kaggle.com/,
+https://docs.pola.rs/,
+https://pandas.pydata.org/docs/index.html,
+https://stackoverflow.com/,
 https://www.geeksforgeeks.org/
 
 
